@@ -1,8 +1,8 @@
-## Simple distance-based alert system using HC-SR04 and a Active Buzzer.
+## Simple distance-based alert system using HC-SR04 and an Active Buzzer.
 
 ### Features
 - Measures distance from 3 to 500cm.
-- Bepp frequency and volume increase as objects get closer.
+- Beep frequency and volume increase as objects get closer.
 
 ### Components
 - Arduino Uno
