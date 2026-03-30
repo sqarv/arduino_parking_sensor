@@ -11,4 +11,4 @@ Control LED intensity using an IR Remote with step-acceleration logic.
   
 | Circuit Schematic | Demo |
 | :---: | :---: |
-| <img src="./schematic.png" width="500"> | <img src="./demo.gif" width="550"> | |
+| <img src="./schematic.png" width="500"> | <img src="./demo.gif" width="500"> | |
